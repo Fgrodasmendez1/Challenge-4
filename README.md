@@ -8,7 +8,7 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 * [Deployed GitHub IO]
 * [Full Demo Video]
 
-![Code-Quiz Demo](assets/demo/gif.gif)
+![Code-Quiz Demo]()
 
 ### Prerequisites
 
