@@ -6,7 +6,7 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 
 * [GitHub Repository]()
 * [Deployed GitHub IO]()
-* [Full Demo Video](file:///C:/Users/ferna/OneDrive/Desktop/Coding%20Bootcamp/Challenge%20Folder/Week%204/HighScores.html)
+* [Full Demo Video](https://drive.google.com/file/d/1NE5iRfU3dMwpYCBGjd_9cdutiWeNcE--/view)
 
 ![Code-Quiz Demo](https://github.com/Fgrodasmendez1/Challenge-4/blob/main/Asset/Code-Quiz.gif)
 
