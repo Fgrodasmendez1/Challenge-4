@@ -102,7 +102,7 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
         * Retreives local data from previous page
 * One CSS Page
     * Styles.css
-        * Contains centering and styling for html list features
+        * Contains centering and styling for HTML list features
         * Contains media queries
 * Two Javascript Page
         * Contains: 
