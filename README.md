@@ -8,7 +8,7 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 * [Deployed GitHub IO]
 * [Full Demo Video]
 
-![Code-Quiz Demo]()
+![Code-Quiz Demo](https://github.com/Fgrodasmendez1/Challenge-4/blob/main/Asset/Code-Quiz.gif)
 
 ### Prerequisites
 
