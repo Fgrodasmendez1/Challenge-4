@@ -4,7 +4,7 @@ This is a quiz application using HTML, CSS, and Javascript. This application foc
 
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
-* [GitHub Repository]()
+* [GitHub Repository](https://github.com/Fgrodasmendez1/Challenge-4)
 * [Deployed GitHub IO](https://fgrodasmendez1.github.io/Challenge-4/)
 * [Full Demo Video](https://drive.google.com/file/d/1NE5iRfU3dMwpYCBGjd_9cdutiWeNcE--/view)
 
